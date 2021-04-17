@@ -205,6 +205,8 @@ nav ul li a{
     font-weight: 400;
 }
 .social-com{
+    display: flex;
+    justify-content: center;
     flex-basis: 25%;
     width: 10%;
     height: 20%;
@@ -217,7 +219,6 @@ nav ul li a{
     border-radius: 120px;
 
 }
-
 
 .social-com h4{
     margin-bottom: 15px;
